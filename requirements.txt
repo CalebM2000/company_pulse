@@ -1,0 +1,11 @@
+pandas
+numpy
+streamlit
+psycopg2-binary
+duckdb
+scikit-learn
+prophet
+textblob
+requests
+plotly
+schedule
